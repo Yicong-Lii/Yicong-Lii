@@ -1,22 +1,19 @@
-### Hi there 👋  A little about me
+### Hi there 👋 A little about me
 
 ---
 
 <h4>Personal information:</h4>
 
--  🧐 **Name:** Yicong Li
--  ✨ **Age:** 24 
--  🇨🇳 **hometown:** Beijing, China 
--  📧 **Email:** leo727268082@gmail.com
--  📖  **Education:** 
-        <br />
-        1. 🧑‍🎓 **Bachelor** -> &nbsp;&nbsp;&nbsp; The Queensland University of Technology —— Computer Science    
-        2. 🧑‍🎓 **Master**   -> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of Melbourne —— Information Technology 
-        
-        
-
+- 🧐 **Name:** Yicong Li
+- ✨ **Age:** 24
+- 🇨🇳 **hometown:** Beijing, China
+- 📧 **Email:** leo727268082@gmail.com
+- 📖 **Education:**
+  <br /> 1. 🧑‍🎓 **Bachelor** -> &nbsp;&nbsp;&nbsp; The Queensland University of Technology —— Computer Science  
+   2. 🧑‍🎓 **Master** -> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of Melbourne —— Information Technology
 
 ---
+
 <h4>Skill:</h4>
 <br>
 
@@ -32,7 +29,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrogTuna&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
----
 <h4>Visited Count:</h4> 
 <br>
 <p align="center"> 
