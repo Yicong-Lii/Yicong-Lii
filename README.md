@@ -29,6 +29,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrogTuna&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+---
 <h4>Visited Count:</h4> 
 <br>
 <p align="center"> 
