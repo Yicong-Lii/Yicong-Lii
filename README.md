@@ -5,7 +5,7 @@
 <h4>Personal information:</h4>
 
 - 🧐 **Name:** Yicong Li
-- ✨ **Age:** 24
+- ✨ **Age:** 25
 - 🇨🇳 **hometown:** Beijing, China
 - 📧 **Email:** leo727268082@gmail.com
 - 📖 **Education:**
@@ -25,7 +25,6 @@
 ![Express](https://img.shields.io/badge/-Express-000000?logo=Express&logoColor=white&style=flat)
 ![C#](https://img.shields.io/badge/-CSharp-99CC00?logo=sharp&logoColor=white&style=flat)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=flat)
-![Mysql](https://img.shields.io/badge/-Mysql-4479A1?logo=MySQL&logoColor=white&style=flat)
 
 
 ---
