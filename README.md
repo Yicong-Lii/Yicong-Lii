@@ -6,11 +6,11 @@
 
 - 🧐 **Name:** Yicong Li
 - ✨ **Age:** 26
-- 🇨🇳 **hometown:** Beijing, China
+- 🇨🇳 **Hometown:** Beijing, China
 - 🧌 **MBTI:** IFSJ
 - 📧 **Email:** leo727268082@gmail.com
 - 🎒 **Education:** Postgraduate
-
+- 🥹 **Dream Job:** Sleeping and Eating 
 
 ---
 
