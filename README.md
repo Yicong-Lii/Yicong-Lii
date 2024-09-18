@@ -8,7 +8,7 @@
 - ✨ **Age:** 26
 - 🇨🇳 **hometown:** Beijing, China
 - 📧 **Email:** leo727268082@gmail.com
-- 📧 **Education:** University of Melbourne -- Information Technology
+- 📧 **Education:** Master
 
 
 ---
