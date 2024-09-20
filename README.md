@@ -9,7 +9,7 @@
 - 🇨🇳 **Hometown:** Beijing, China
 - 🧌 **MBTI:** IFSJ
 - 📧 **Email:** leo727268082@gmail.com
-- 🎒 **Education:** Postgraduate (UNI Hint - QS 13)
+- 🎒 **Education:** Postgraduate 
 - 🥹 **Dream Job:** Sleeping and Eating 
 
 ---
