@@ -30,5 +30,5 @@
 <h4>Visited Count:</h4> 
 <br>
 <p align="center"> 
-  <img src="https://profile-counter.glitch.me/FrogTuna/count.svg" />
+  <img src="https://profile-counter.glitch.me/Yicong-Lii/count.svg" />
 </p>
