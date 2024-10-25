@@ -12,7 +12,7 @@
 - 🎒 **Education:**
    <br /> 1. 🧑‍🎓 **Bachelor** &nbsp; -> &nbsp;&nbsp;&nbsp;&nbsp; Queensland University of Technology —— Computer Science  
    2. 🧑‍🎓 **Master** &nbsp;&nbsp;&nbsp;&nbsp; -> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of Melbourne —— Information Technology
-   3. 🧑‍🎓 **Master** &nbsp;&nbsp;&nbsp;&nbsp; -> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of Auckland —— Business Analytics
+     <br /> 3. 🧑‍🎓 **Master** &nbsp;&nbsp;&nbsp;&nbsp; -> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of Auckland —— Business Analytics
 - 🥹 **Dream Job:** Sleeping and Eating 
 
 ---
