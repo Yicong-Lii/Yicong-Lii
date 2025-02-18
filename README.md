@@ -7,7 +7,7 @@
 - 🧐 **Name:** Yicong Li
 - ✨ **Age:** 26
 - 🇨🇳 **Hometown:** Beijing, China
-- 🧌 **MBTI:** IFSJ
+- 🧌 **MBTI:** ISFJ
 - 📧 **Email:** leo727268082@gmail.com
 - 🎒 **Education:**
    <br /> 1. 🧑‍🎓 **Bachelor** &nbsp; -> &nbsp;&nbsp;&nbsp;&nbsp; Queensland University of Technology —— Computer Science  
