@@ -8,7 +8,7 @@
 - ✨ **Age:** 26
 - 🇨🇳 **Hometown:** Beijing, China
 - 🧌 **MBTI:** ISFJ
-- 📧 **Email:** leo727268082@gmail.com
+- 📧 **Email:** leodev@foxmail.com
 - 🎒 **Education:**
    <br /> 1. 🧑‍🎓 **Bachelor** &nbsp; -> &nbsp;&nbsp;&nbsp;&nbsp; Queensland University of Technology —— Computer Science  
    2. 🧑‍🎓 **Master** &nbsp;&nbsp;&nbsp;&nbsp; -> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of Melbourne —— Information Technology
