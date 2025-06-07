@@ -4,8 +4,8 @@
 
 <h4>Personal information:</h4>
 
-- 🧐 **Name:** Yicong Li
-- ✨ **Age:** 26
+- 🧐 **Name:** lilRed
+- ✨ **Age:** 27
 - 🇨🇳 **Hometown:** Beijing, China
 - 🧌 **MBTI:** ISFJ
 - 📧 **Email:** leodev@foxmail.com
