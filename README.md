@@ -17,7 +17,7 @@
 
 ---
 
-<h4>Skill:</h4>
+<h4>Skills:</h4>
 <br>
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=HTML5&logoColor=white&style=flat)
