@@ -4,7 +4,7 @@
 
 <h4>Personal information:</h4>
 
-- 🧐 **Name:** lilRed
+- 🧐 **Name:** Yicong Li
 - ✨ **Age:** 27
 - 🇨🇳 **Hometown:** Beijing, China
 - 🧌 **MBTI:** ISFJ
