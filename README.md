@@ -32,7 +32,7 @@
 ![Redis](https://img.shields.io/badge/-Redis-FF4438?logo=Redis&logoColor=white&style=flat)
 
 ---
-<h4>Commit Record</h4> 
+<h4>Contributions Snake:</h4> 
 <br>
 <div align="center">
   <img src="https://raw.githubusercontent.com/Yicong-Lii/Yicong-Lii/output/github-snake-dark.svg" alt="snake gif" />
