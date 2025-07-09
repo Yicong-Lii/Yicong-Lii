@@ -35,8 +35,11 @@
 
 
 ---
-<h4>Visited Count:</h4> 
+<h4>Language Usage</h4> 
 <br>
 <p align="center"> 
-  <img src="https://profile-counter.glitch.me/Yicong-Lii/count.svg" />
+
+<!-- 语言分布 -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yicong-Lii&layout=compact&theme=dark" alt="Top Langs" />
+
 </p>
