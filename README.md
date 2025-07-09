@@ -34,12 +34,21 @@
 
 
 
+
 ---
 <h4>Language Usage</h4> 
 <br>
-<p align="center"> 
+<div align="center"> 
 
 <!-- 语言分布 -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yicong-Lii&layout=compact&theme=dark" alt="Top Langs" />
 
-</p>
+</div>
+
+---
+<h4>Commit Record</h4> 
+<br>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Yicong-Lii/Yicong-Lii/output/github-snake-dark.svg" alt="snake gif" />
+</div>
+
