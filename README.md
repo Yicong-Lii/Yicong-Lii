@@ -25,11 +25,10 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white&style=flat)
 ![React](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=white&style=flat)
 ![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vuedotjs&logoColor=white&style=flat)
-![NextJs](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat)
-![Express](https://img.shields.io/badge/-Express-000000?logo=Express&logoColor=white&style=flat)
+![NextJS](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat)
+![NodeJS](https://img.shields.io/badge/-Node.js-47A248?logo=nodedotjs&logoColor=white&style=flat)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=flat)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
-![Redis](https://img.shields.io/badge/-Redis-FF4438?logo=Redis&logoColor=white&style=flat)
 
 ---
 <h4>Contributions Snake:</h4> 
