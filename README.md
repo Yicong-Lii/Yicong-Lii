@@ -32,19 +32,6 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
 ![Redis](https://img.shields.io/badge/-Redis-FF4438?logo=Redis&logoColor=white&style=flat)
 
-
-
-
----
-<h4>Language Usage</h4> 
-<br>
-<div align="center"> 
-
-<!-- 语言分布 -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yicong-Lii&layout=compact&theme=dark" alt="Top Langs" />
-
-</div>
-
 ---
 <h4>Commit Record</h4> 
 <br>
