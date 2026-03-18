@@ -10,9 +10,10 @@
 - 🧌 **MBTI:** ISFJ
 - 📧 **Email:** leodev@foxmail.com
 - 🎒 **Education:**
-   <br /> 1. 🧑‍🎓 **Bachelor** &nbsp; -> &nbsp;&nbsp;&nbsp;&nbsp; Queensland University of Technology —— Computer Science  
-   2. 🧑‍🎓 **Master** &nbsp;&nbsp;&nbsp;&nbsp; -> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of Melbourne —— Information Technology
-     <br /> 3. 🧑‍🎓 **Master** &nbsp;&nbsp;&nbsp;&nbsp; -> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of Auckland —— Business Analytics
+   <br /> 🧑‍🎓 **Master** &nbsp;&nbsp;&nbsp;&nbsp; -> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of Auckland —— Business Analytics
+   <br />  🧑‍🎓 **Master** &nbsp;&nbsp;&nbsp;&nbsp; -> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of Melbourne —— Information Technology
+   <br /> 🧑‍🎓 **Bachelor** &nbsp; -> &nbsp;&nbsp;&nbsp;&nbsp; Queensland University of Technology —— Computer Science  
+     
 - 🥹 **Dream Job:** Sleeping and Eating 
 
 ---
