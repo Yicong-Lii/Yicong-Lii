@@ -5,7 +5,7 @@
 <h4>Personal information:</h4>
 
 - 🧐 **Name:** Yicong Li
-- ✨ **Age:** 27
+- ✨ **Age:** 28
 - 🇨🇳 **Hometown:** Beijing, China
 - 🧌 **MBTI:** ISFJ
 - 📧 **Email:** leodev@foxmail.com
